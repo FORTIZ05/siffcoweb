@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<odoo>
+    <record model="ir.ui.view" id="view_account_journal_form">
+        <field name="name">account.journal.form.inherit.l10n.co.invoice</field>
+        <field name="model">account.journal</field>
+        <field name="inherit_id" ref="account.view_account_journal_form"/>
+        <field name="arch" type="xml">
+            <xpath expr="//notebook//page[@name='journal_entries']//div[last()]" position="after">
+              <field name="co_debit_sequence" attrs="{'invisible': [('type', 'not in', ['sale', 'purchase'])]}" groups="base.group_no_one"/>
+              <label for="co_debit_sequence_number_next" attrs="{'invisible': ['|',('type', 'not in', ['sale', 'purchase']), ('co_debit_sequence', '!=', True)]}"/>
+              <div attrs="{'invisible': ['|',('type', 'not in', ['sale', 'purchase']), ('co_debit_sequence', '!=', True)]}">
+                  <field name="co_debit_sequence_number_next" style="padding-right: 1.0em"/>
+                  <field name="co_debit_sequence_id" required="0" attrs="{'readonly': 1}" groups="base.group_no_one"/>
+              </div>
+            </xpath>
+
+            <xpath expr="//notebook//page[@name='advanced_settings']//group" position="inside">
+                  <group name="colombian_settings" string="Colombian Settings">
+                      <field name="co_electronic_invoice" attrs="{'invisible':[('type','not in',['sale'])]}" />
+                      <field name="co_invoice_code" attrs="{'invisible':[('type','not in',['sale', 'purchase'])]}" />
+                      <field name="co_credit_invoice_code" invisible="True" />
+                      <field name="co_debit_invoice_code" invisible="True" />
+                      <field name="co_credit_note_id" attrs="{'invisible':[('type','not in',['sale', 'purchase'])]}" />
+                      <field name="co_debit_note_id" attrs="{'invisible':[('type','not in',['sale', 'purchase'])]}" />
+
+                  </group>
+            </xpath>
+        </field>
+    </record>
+    <record id="view_tax_form" model="ir.ui.view">
+        <field name="name">account.tax.form</field>
+        <field name="model">account.tax</field>
+        <field name="inherit_id" ref="account.view_tax_form"/>
+        <field name="arch" type="xml">
+            <xpath expr="//field[@name='type_tax_use']" position="before">
+                <field name="co_tax_type_id" widget="selection" required="True" />
+                <field name="sequence" />
+            </xpath>
+        </field>
+    </record>
+</odoo>

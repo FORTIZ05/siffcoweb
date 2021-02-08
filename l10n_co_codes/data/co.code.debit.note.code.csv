@@ -1,0 +1,5 @@
+id,code,name
+debit_note_code1,1,Intereses
+debit_note_code2,2,Gastos por cobrar
+debit_note_code3,3,Cambio del valor
+debit_note_code4,4,Otros

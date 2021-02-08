@@ -1,0 +1,13 @@
+id,code,name
+operation_type01,01,Combustibles
+operation_type02,02,Emisor es Autorretenedor
+operation_type03,03,Excluidos y Exentos
+operation_type04,04,Exportación
+operation_type05,05,Genérica
+operation_type06,06,Genérica con pago anticipado
+operation_type07,07,Genérica con periodo de facturacion
+operation_type08,08,Consorcio
+operation_type09,09,Servicios AIU
+operation_type10,10,Estándar
+operation_type11,11,Mandatos bienes
+operation_type12,12,Mandatos Servicios

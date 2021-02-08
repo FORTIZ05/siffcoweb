@@ -1,0 +1,83 @@
+{
+  "SeriePrefix": "SETT",
+  "SerieNumber": "301029",	
+  "IssueDate": "2020-01-20T00:00:00",
+  "DueDate": "2020-01-20T00:00:00",
+  "DeliveryDate": "2020-01-23T00:00:00",
+  "Currency": "COP", 
+  "OperationType": "10",
+  "CorrelationDocumentId": "POSTMAN-{{$timestamp}}",
+  "SerieExternalKey": "3iwsWcVBZY", 
+  	"PaymentMeans": [
+		{
+			"Code": "20",
+			"Mean": "1",
+			"DueDate": "2019-08-22"
+		}
+	],
+  "IssuerParty": {
+    "Identification": {			
+		"DocumentNumber": "123456767",		
+		"DocumentType": "NIT",		
+		"CountryCode": "CO",		
+		"CheckDigit": "1"		
+	}	
+  },
+  "CustomerParty": {
+    "LegalType": "Legal",
+    "Email":"correo@correo.com",	
+    "TaxScheme": "48",
+	"ResponsabilityTypes": ["O-11"],
+    "Name": "Adquiriente S.A.S.",
+    "Identification": {			
+		"DocumentNumber": "123456767",			
+		"DocumentType": "NIT",	
+		"CountryCode": "CO",		
+		"CheckDigit": "1"	
+	},
+    "Address": {			
+		"DepartmentCode": "11",	
+		"CityCode": "11001",		
+		"AddressLine": "Av Norte Calle Este",				
+		"Country": "CO"		
+	}	
+  },
+  "Lines": [{	
+		"Number": "1",	
+		"Quantity": "1",		
+		"QuantityUnitOfMeasure": "NAR",		
+		"TaxSubTotals": [{	
+			"TaxCategory": "IVA",		
+			"TaxPercentage": "19.00",		
+			"TaxableAmount": "115000.00",		
+			"TaxAmount": "21850.00"		
+		}],
+		"TaxTotals": [{
+			"TaxCategory": "IVA",
+			"TaxAmount": "21850.00"
+		}],	
+		"UnitPrice": "115000.00",		
+		"GrossAmount": "115000.00",		
+		"NetAmount": "115000.00",	
+		"Item": {			
+			"Gtin": "987654321",
+			"Description": "Descripcion del producto o servicio"
+		}	
+	}],
+  "TaxSubTotals": [{	
+	"TaxCategory": "IVA",		
+	"TaxPercentage": "19.00",		
+	"TaxableAmount": "115000.00",		
+	"TaxAmount": "21850.00"		
+  }],
+  "TaxTotals": [{
+      "TaxCategory": "IVA",
+      "TaxAmount": "21850.00"
+  }],
+  "Total": {				
+	"GrossAmount": "115000.00",			
+	"TotalBillableAmount": "136850.00",		
+	"PayableAmount": "136850.00",			
+	"TaxableAmount": "115000.00"		
+  }
+}

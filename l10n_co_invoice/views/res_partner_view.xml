@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<odoo>
+    <record model="ir.ui.view" id="view_partner_form_inherit_l10n_co_invoice">
+        <field name="name">res.partner.l10n_co.form</field>
+        <field name="model">res.partner</field>
+        <field name="inherit_id" ref="base.view_partner_form"/>
+        <field name="arch" type="xml">
+            <xpath expr="//field[@name='name']" position="attributes">
+                <attribute name="attrs">{'invisible':[('company_type','=','person')], 'required' : [('type', '=', 'contact')]}</attribute>
+            </xpath>
+            <xpath expr="//field[@name='name']" position="after">
+                <field name="co_first_name" placeholder="First Name" style="width: 33%%" 
+                attrs="{'invisible':[('company_type','=','company')], 'required' : [('company_type','=','person'),('type', '=', 'contact')]}" />
+                <field name="co_middle_name" placeholder="Middle Name" style="width: 33%%" 
+                attrs="{'invisible':[('company_type','=','company')]}"  />
+                <field name="co_family_name" placeholder="Family Name" style="width: 33%%" 
+                attrs="{'invisible':[('company_type','=','company')], 'required' : [('company_type','=','person'),('type', '=', 'contact')]}"  />
+            </xpath>
+            <field name="vat" position="after">
+                <field name="co_tax_level_code_ids" widget="many2many_tags" options="{'no_create_edit': True}" required="True"/>
+                <field name="co_tax_level" required="True"/>
+                <field name="co_legal_type" required="True"/>
+            </field>
+        </field>
+    </record>
+</odoo>

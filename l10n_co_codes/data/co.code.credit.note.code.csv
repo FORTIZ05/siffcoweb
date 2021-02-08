@@ -1,0 +1,7 @@
+id,code,name
+credit_note_code1,1,Devolución de parte de los bienes; no aceptación de partes del servicio
+credit_note_code2,2,Anulación de factura electrónica
+credit_note_code3,3,Rebaja total aplicada
+credit_note_code4,4,Descuento total aplicado
+credit_note_code5,5,Rescisión: nulidad por falta de requisitos
+credit_note_code6,6,Otros

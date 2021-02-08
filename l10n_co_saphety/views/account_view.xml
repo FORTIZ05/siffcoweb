@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<odoo>
+    <record model="ir.ui.view" id="view_account_journal_saphety_form">
+        <field name="name">account.journal.form.inherit.l10n.co.saphety</field>
+        <field name="model">account.journal</field>
+        <field name="inherit_id" ref="l10n_co_invoice.view_account_journal_form"/>
+        <field name="arch" type="xml">
+            <xpath expr="//group[@name='colombian_settings']" position="inside">
+              <field name="co_saphety_invoice" attrs="{'invisible':[('type','not in',['sale'])],'required':[('type','=','sale'),('co_electronic_invoice','=',True)]}" />
+              <field name="co_saphety_credit_note" attrs="{'invisible':[('type','not in',['sale']),('refund_sequence','=',False)],'required':[('refund_sequence','=',True),('co_electronic_invoice','=',True)]}" />
+              <field name="co_saphety_debit_note" attrs="{'invisible':[('type','not in',['sale']),('co_debit_sequence','=',False)],'required':[('co_debit_sequence','=',True),('co_electronic_invoice','=',True)]}" />
+            </xpath>
+        </field>
+    </record>
+
+</odoo>

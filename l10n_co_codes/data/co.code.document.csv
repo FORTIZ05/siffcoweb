@@ -1,0 +1,7 @@
+id,code,name,description
+documentcode01,01,Factura electrónica de Venta,Tipos de factura
+documentcode02,02,Factura electrónica de venta – exportación,Tipos de factura
+documentcode03,03,Documento electrónico de transmisión – tipo 03,Tipos de factura
+documentcode04,04,Factura electrónica de Venta - tipo 04,Tipos de factura
+documentcode91,91,Nota Crédito,Exclusivo en referencias a documentos (elementos DocumentReference)
+documentcode92,92,Nota Débito,Exclusivo en referencias a documentos (elementos DocumentReference)

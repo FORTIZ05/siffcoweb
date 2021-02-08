@@ -1,0 +1,6 @@
+id,code,name
+event02,02,Documento validado por la DIAN
+event04,04,Documento Rechazado por la DIAN
+event030,030,Acuse de recibo
+event031,031,Rechazo de Documento
+event033,033,Aceptación de Documento

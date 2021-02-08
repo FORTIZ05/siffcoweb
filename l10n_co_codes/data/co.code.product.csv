@@ -1,0 +1,1094 @@
+id,code,name
+product_code04,04,spray pequeño
+product_code05,05,levantar
+product_code08,08,Lote calor
+product_code10,10,grupo
+product_code11,11,equipar
+product_code13,13,ración
+product_code14,14,Disparo
+product_code15,15,palo
+product_code16,16,tambor de ciento quince kg
+product_code17,17,tambor de cien libras
+product_code18,18,tambor de cincuenta y cinco galones (US)
+product_code19,19,camión cisterna
+product_code20,20,contenedor de veinte pies
+product_code21,21,contenedor de cuarenta pies
+product_code22,22,decilitro por gramo
+product_code23,23,gramo por centímetro cúbico
+product_code24,24,libra teórica
+product_code25,25,gramo por centímetro cuadrado
+product_code26,26,tonelada real
+product_code27,27,tonelada teórica
+product_code28,28,kilogramo por metro cuadrado
+product_code29,29,libra por mil pies cuadrados
+product_code30,30,Día de potencia del caballo por tonelada métrica seca al aire.
+product_code31,31,coger peso
+product_code32,32,kilogramo por aire seco tonelada métrica
+product_code33,33,kilopascales metros cuadrados por gramo
+product_code34,34,kilopascales por milímetro
+product_code35,35,mililitros por centímetro cuadrado segundo
+product_code36,36,pies cúbicos por minuto por pie cuadrado
+product_code37,37,onza por pie cuadrado
+product_code38,38,"onzas por pie cuadrado por 0,01 pulgadas"
+product_code40,40,mililitro por segundo
+product_code41,41,mililitro por minuto
+product_code43,43,bolsa súper a granel
+product_code44,44,bolsa a granel de quinientos kg
+product_code45,45,bolsa a granel de trescientos kg
+product_code46,46,bolsa a granel de cincuenta libras
+product_code47,47,bolsa de cincuenta libras
+product_code48,48,carga de automóviles a granel
+product_code53,53,kilogramos teóricos
+product_code54,54,tonelada teórica
+product_code56,56,sitas
+product_code57,57,malla
+product_code58,58,kilogramo neto
+product_code59,59,parte por millón
+product_code60,60,porcentaje de peso
+product_code61,61,parte por billón (US)
+product_code62,62,porcentaje por 1000 horas
+product_code63,63,tasa de fracaso en el tiempo
+product_code64,64,"libra por pulgada cuadrada, calibre"
+product_code66,66,Oersted
+product_code69,69,prueba de escala específica
+product_code71,71,voltio amperio por libra
+product_code72,72,vatio por libra
+product_code73,73,amperio tum por centímetro
+product_code74,74,milipascal
+product_code76,76,gauss
+product_code77,77,mili pulgadas
+product_code78,78,kilogauss
+product_code80,80,libras por pulgada cuadrada absoluta
+product_code81,81,Enrique
+product_code84,84,kilopound por pulgada cuadrada
+product_code85,85,fuerza libra pie
+product_code87,87,libra por pie cúbico
+product_code89,89,equilibrio
+product_code90,90,Saybold segundo universal
+product_code91,91,alimenta
+product_code92,92,calorías por centímetro cúbico
+product_code93,93,calorías por gramo
+product_code94,94,unidad
+product_code95,95,veinte mil galones (US) de carros
+product_code96,96,diez mil galones (US) de carros
+product_code97,97,tambor de diez kg
+product_code98,98,tambor de quince kg
+product_code1ª,1ª,milla de coche
+product_code1B,1B,recuento de coches
+product_code1C,1C,recuento de locomotoras
+product_code1D,1D,recuento de cabos
+product_code1E,1E,carro vacio
+product_code1F,1F,millas de tren
+product_code1G,1G,uso de combustible galón (US)
+product_code1H,1H,milla del caboose
+product_code1I,1I,tipo de interés fijo
+product_code1J,1J,tonelada milla
+product_code1K,1K,milla locomotora
+product_code1L,1L,recuento total de coches
+product_code1M,1M,milla de coche total
+product_code1X,1X,cuarto de milla
+product_code2ª,2ª,radianes por segundo
+product_code2B,2B,radianes por segundo al cuadrado
+product_code2C,2C,Röntgen
+product_code2I,2I,Unidad térmica británica por hora.
+product_code2J,2J,centímetro cúbico por segundo
+product_code2K,2K,pie cúbico por hora
+product_code2L,2L,pie cúbico por minuto
+product_code2M,2M,centímetro por segundo
+product_code2N,2N,decibel
+product_code2P,2P,kilobyte
+product_code2Q,2Q,kilobecquerel
+product_code2R,2R,kilocurie
+product_code2U,2U,megagramo
+product_code2V,2V,megagramo por hora
+product_code2W,2W,compartimiento
+product_code2X,2X,metro por minuto
+product_code2Y,2Y,milliröntgen
+product_code2Z,2Z,milivoltios
+product_code3B,3B,megajulio
+product_code3C,3C,manmonth
+product_code3E,3E,libra por libra de producto
+product_code3G,3G,libra por pieza de producto
+product_code3H,3H,kilogramo por kilogramo de producto
+product_code3I,3I,kilogramo por pieza de producto
+product_code4ª,4ª,bobina
+product_code4B,4B,gorra
+product_code4C,4C,centistokes
+product_code4E,4E,paquete de veinte
+product_code4G,4G,microlitro
+product_code4H,4H,micrometro
+product_code4K,4K,miliamperio
+product_code4L,4L,megabyte
+product_code4M,4M,miligramo por hora
+product_code4N,4N,megabecquerel
+product_code4º,4º,microfarad
+product_code4P,4P,newton por metro
+product_code4Q,4Q,onza pulgada
+product_code4R,4R,pie onza
+product_code4T,4T,picofarad
+product_code4U,4U,libra por hora
+product_code4W,4W,tonelada (US) por hora
+product_code4X,4X,kilolitro por hora
+product_code5ª,5ª,barril por minuto
+product_code5B,5B,lote
+product_code5C,5C,galón (US) por mil
+product_code5E,5E,MMSCF / día
+product_code5F,5F,libras por mil
+product_code5G,5G,bomba
+product_code5H,5H,escenario
+product_code5I,5I,pie cúbico estándar
+product_code5J,5J,potencia hidráulica de caballos
+product_code5K,5K,contar por minuto
+product_code5P,5P,nivel sismico
+product_code5Q,5Q,nfor sismica
+product_codeA1,A1,15 calorías C
+product_codeA10,A10,amperio metro cuadrado por joule segundo
+product_codeA11,A11,Ã ¥ ngström
+product_codeA12,A12,unidad astronómica
+product_codeA13,A13,attojoule
+product_codeA14,A14,granero
+product_codeA15,A15,granero por electrón voltio
+product_codeA16,A16,"granero por voltio de electrones esteradiano,"
+product_codeA17,A17,granero por sterdian
+product_codeA18,A18,becquerel por kilogramo
+product_codeA19,A19,becquerel por metro cúbico
+product_codeA2,A2,amperio por centímetro
+product_codeA20,A20,Unidad térmica británica por segundo pie cuadrado grado Rankin
+product_codeA21,A21,Unidad térmica británica por libra grado Rankin
+product_codeA22,A22,Unidad térmica británica por segundo pie grado Rankin
+product_codeA23,A23,Unidad térmica británica por hora pie cuadrado grado Rankin
+product_codeA24,A24,candela por metro cuadrado
+product_codeA25,A25,cheval vapeur
+product_codeA26,A26,medidor de culombio
+product_codeA27,A27,medidor de culombio al cuadrado por voltio
+product_codeA28,A28,Coulomb por centímetro cúbico
+product_codeA29,A29,Coulomb por metro cúbico
+product_codeA3,A3,amperio por milímetro
+product_codeA30,A30,Coulomb por milímetro cúbico
+product_codeA31,A31,Coulomb por kilogramo segundo
+product_codeA32,A32,Coulomb por mol
+product_codeA33,A33,Coulomb por centímetro cuadrado
+product_codeA34,A34,Coulomb por metro cuadrado
+product_codeA35,A35,Coulomb por milímetro cuadrado
+product_codeA36,A36,centímetro cúbico por mol
+product_codeA37,A37,nformaci cúbico por mol
+product_codeA38,A38,metro cúbico por coulomb
+product_codeA39,A39,metro cúbico por kilogramo
+product_codeA4,A4,amperio por centímetro cuadrado
+product_codeA40,A40,metro cúbico por mol
+product_codeA41,A41,amperio por metro cuadrado
+product_codeA42,A42,curie por kilogramo
+product_codeA43,A43,tonelaje de peso muerto
+product_codeA44,A44,decalitro
+product_codeA45,A45,decámetro
+product_codeA47,A47,decitex
+product_codeA48,A48,grado Rankin
+product_codeA49,A49,negador
+product_codeA5,A5,amperio metro cuadrado
+product_codeA50,A50,dyn segundo por centímetro cúbico
+product_codeA51,A51,dina segundo por centímetro
+product_codeA52,A52,dina segundo por centímetro al quinto
+product_codeA53,A53,electronvolt
+product_codeA54,A54,electronvoltio por metro
+product_codeA55,A55,metro electronvolt cuadrado
+product_codeA56,A56,electronvoltio de metro cuadrado por kilogramo
+product_codeA57,A57,ergio
+product_codeA58,A58,erg por centímetro
+product_codeA6,A6,amperio por metro cuadrado kelvin al cuadrado
+product_codeA60,A60,erg por centímetro cúbico
+product_codeA61,A61,erg por gramo
+product_codeA62,A62,erg por gramo de segundo
+product_codeA63,A63,erg por segundo
+product_codeA64,A64,erg por segundo centímetro cuadrado
+product_codeA65,A65,erg por centímetro cuadrado segundo
+product_codeA66,A66,erg centímetro cuadrado
+product_codeA67,A67,ergímetro cuadrado por gramo
+product_codeA68,A68,exajulio
+product_codeA69,A69,faradio por metro
+product_codeA7,A7,amperio por milímetro cuadrado
+product_codeA70,A70,femtojoule
+product_codeA71,A71,femtometro
+product_codeA73,A73,pie por segundo al cuadrado
+product_codeA74,A74,pie-fuerza de la libra por segundo
+product_codeA75,A75,tonelada de carga
+product_codeA76,A76,galón
+product_codeA77,A77,Unidad de desplazamiento CGS gaussiana
+product_codeA78,A78,Unidad gaussiana CGS de corriente eléctrica.
+product_codeA79,A79,Unidad Gaussian CGS de carga eléctrica.
+product_codeA8,A8,amperio segundo
+product_codeA80,A80,Unidad Gaussian CGS de intensidad de campo eléctrico.
+product_codeA81,A81,Unidad Gaussian CGS de polarización eléctrica.
+product_codeA82,A82,Unidad Gaussian CGS de potencial eléctrico.
+product_codeA83,A83,Unidad Gaussiana CGS de magnetización.
+product_codeA84,A84,gigacoulomb por metro cúbico
+product_codeA85,A85,Gigaelectronvolt
+product_codeA86,A86,gigahercios
+product_codeA87,A87,gigaohm
+product_codeA88,A88,medidor de gigaohm
+product_codeA89,A89,gigapascal
+product_codeA9,A9,tarifa
+product_codeA90,A90,gigavatios
+product_codeA91,A91,gon
+product_codeA93,A93,gramo por metro cúbico
+product_codeA94,A94,gramo por mol
+product_codeA95,A95,gris
+product_codeA96,A96,gris por segundo
+product_codeA97,A97,hectopascal
+product_codeA98,A98,Henry por metro
+product_codeAA,AA,bola
+product_codeAB,AB,paquete a granel
+product_codeACR,ACR,acre
+product_codeAD,AD,byte
+product_codeAE,AE,amperio por metro
+product_codeAH,AH,minuto adicional
+product_codeAI,AI,minuto promedio por llamada
+product_codeAJ,AJ,policía
+product_codeAK,AK,braza
+product_codeAL,AL,nfor de acceso
+product_codeAM,AM,ampolla
+product_codeAMH,AMH,hora amperio
+product_codeAMP,AMP,amperio
+product_codeANA,ANA,año
+product_codeAP,AP,solo libra de aluminio
+product_codeAPZ,APZ,onza troy o onza de boticarios
+product_codeAQ,AQ,Unidad de factor antihemofílico (AHF)
+product_codeAR,AR,supositorio
+product_codeSON,SON,son
+product_codeCOMO,COMO,surtido
+product_codeASM,ASM,fuerza alcohólica en masa
+product_codeASU,ASU,fuerza alcohólica por volumen
+product_codeATM,ATM,ambiente estándar
+product_codeATT,ATT,ambiente técnico
+product_codeAV,AV,cápsula
+product_codeAW,AW,vial lleno de polvo
+product_codeSÍ,SÍ,montaje
+product_codeAZ,AZ,Unidad térmica británica por libra
+product_codeB0,B0,Btu por pie cúbico
+product_codeB1,B1,barril (US) por día
+product_codeB11,B11,julios por kilogramo kelvin
+product_codeB12,B12,julios por metro
+product_codeB13,B13,julios por metro cuadrado
+product_codeB14,B14,julios por metro a la cuarta potencia
+product_codeB15,B15,julios por mol
+product_codeB16,B16,julios por mol kelvin
+product_codeB18,B18,joule segundo
+product_codeB2,B2,litera
+product_codeB20,B20,joule metro cuadrado por kilogramo
+product_codeB21,B21,kelvin por vatio
+product_codeB22,B22,Kiloampere
+product_codeB23,B23,kiloampere por metro cuadrado
+product_codeB24,B24,kiloampere por metro
+product_codeB25,B25,kilobecquerel por kilogramo
+product_codeB26,B26,kilocoulomb
+product_codeB27,B27,kilocoulomb por metro cúbico
+product_codeB28,B28,kilocoulomb por metro cuadrado
+product_codeB29,B29,kiloelectronvolt
+product_codeB3,B3,libra de bateo
+product_codeB31,B31,kilogramo metro por segundo
+product_codeB32,B32,kilogramo metro cuadrado
+product_codeB33,B33,kilogramo metro cuadrado por segundo
+product_codeB34,B34,kilogramo por decímetro cúbico
+product_codeB35,B35,kilogramo por litro
+product_codeB36,B36,caloría termoquímica por gramo
+product_codeB37,B37,kilogramo de fuerza
+product_codeB38,B38,metro de fuerza de kilogramo
+product_codeB39,B39,metro de fuerza de kilogramo por segundo
+product_codeB4,B4,"barril, imperial"
+product_codeB40,B40,kilogramo de fuerza por metro cuadrado
+product_codeB41,B41,kilojoule per kelvin
+product_codeB42,B42,kilojoule por kilogramo
+product_codeB43,B43,kilojoule por kilogramo kelvin
+product_codeB44,B44,kilojoule por mol
+product_codeB45,B45,kilomol
+product_codeB46,B46,kilomol por metro cúbico
+product_codeB47,B47,Kilonewton
+product_codeB48,B48,medidor de kilonewton
+product_codeB49,B49,kiloohm
+product_codeB5,B5,palanquilla
+product_codeB50,B50,medidor de kiloohm
+product_codeB51,B51,kilopond
+product_codeB52,B52,kilosegundo
+product_codeB53,B53,kilosiemens
+product_codeB54,B54,kilosiemens por metro
+product_codeB55,B55,kilovoltios por metro
+product_codeB56,B56,kiloveber por metro
+product_codeB57,B57,año luz
+product_codeB58,B58,litro por mol
+product_codeB59,B59,hora lumen
+product_codeB6,B6,bollo
+product_codeB60,B60,lumen por metro cuadrado
+product_codeB61,B61,lumen por vatio
+product_codeB62,B62,lumen segundo
+product_codeB63,B63,hora de lux
+product_codeB64,B64,lux segundo
+product_codeB65,B65,Maxwell
+product_codeB66,B66,megaamperios por metro cuadrado
+product_codeB67,B67,megabecquerel por kilogramo
+product_codeB69,B69,megacoulomb por metro cúbico
+product_codeB7,B7,ciclo
+product_codeB70,B70,megacoulomb por metro cuadrado
+product_codeB71,B71,megaelectronvolt
+product_codeB72,B72,megagramo por metro cúbico
+product_codeB73,B73,meganewton
+product_codeB74,B74,medidor de meganewton
+product_codeB75,B75,megaohm
+product_codeB76,B76,metro megaohm
+product_codeB77,B77,megasiemens por metro
+product_codeB78,B78,megavoltio
+product_codeB79,B79,megavolt por metro
+product_codeB8,B8,julios por metro cúbico
+product_codeB81,B81,metro recíproco cuadrado recíproco segundo
+product_codeB83,B83,metro a la cuarta potencia
+product_codeB84,B84,microamperios
+product_codeB85,B85,microbar
+product_codeB86,B86,microcoulomb
+product_codeB87,B87,microcoulomb por metro cúbico
+product_codeB88,B88,microcoulomb por metro cuadrado
+product_codeB89,B89,microfarada por metro
+product_codeB9,B9,batt
+product_codeB90,B90,microhenry
+product_codeB91,B91,microhenry por metro
+product_codeB92,B92,micronewton
+product_codeB93,B93,medidor de micronewton
+product_codeB94,B94,microohm
+product_codeB95,B95,medidor de microohmios
+product_codeB96,B96,micropascal
+product_codeB97,B97,microradiano
+product_codeB98,B98,microsegundo
+product_codeB99,B99,microsiemens
+product_codeBAR,BAR,bar
+product_codeBB,BB,caja base
+product_codeBD,BD,tablero
+product_codeSER,SER,haz
+product_codeBFT,BFT,pie de tabla
+product_codeBG,BG,bolso
+product_codeBH,BH,cepillo
+product_codeBHP,BHP,potencia al freno
+product_codeBIL,BIL,trillón de dólares
+product_codeBJ,BJ,cangilón
+product_codeBK,BK,cesta
+product_codeBL,BL,bala
+product_codeBLD,BLD,barril seco
+product_codeBLL,BLL,"barril (EE. UU.) (petróleo, etc.)"
+product_codeBO,BO,botella
+product_codeBP,BP,cien pies de tabla
+product_codeBQL,BQL,becquerel
+product_codeBR,BR,bar
+product_codeBT,BT,tornillo
+product_codeBTU,BTU,Unidad Térmica Británica
+product_codeBUA,BUA,bushel (EE. UU.)
+product_codeBUI,BUI,bushel (Reino Unido)
+product_codeBW,BW,peso base
+product_codeBX,BX,caja
+product_codeBZ,BZ,millones de BTUs
+product_codeC0,C0,llamada
+product_codeC1,C1,producto compuesto libra (peso total)
+product_codeC10,C10,millifarad
+product_codeC11,C11,miligal
+product_codeC12,C12,miligramo por metro
+product_codeC13,C13,miligray
+product_codeC14,C14,milihenry
+product_codeC15,C15,milijoule
+product_codeC16,C16,milímetro por segundo
+product_codeC17,C17,milímetro cuadrado por segundo
+product_codeC18,C18,milimol
+product_codeC19,C19,mol por kilogramo
+product_codeC2,C2,carset
+product_codeC20,C20,millinewton
+product_codeC22,C22,millinewton por metro
+product_codeC23,C23,medidor de miliohm
+product_codeC24,C24,segundo milipascal
+product_codeC25,C25,miliradian
+product_codeC26,C26,milisegundo
+product_codeC27,C27,milisiemens
+product_codeC28,C28,milisievert
+product_codeC29,C29,millitesla
+product_codeC3,C3,microvoltios por metro
+product_codeC30,C30,milivoltios por metro
+product_codeC31,C31,milivatios
+product_codeC32,C32,milivatios por metro cuadrado
+product_codeC33,C33,milliweber
+product_codeC34,C34,Topo
+product_codeC35,C35,mol por decímetro cúbico
+product_codeC36,C36,mol por metro cúbico
+product_codeC38,C38,mol por litro
+product_codeC39,C39,Nanoampere
+product_codeC4,C4,partido de carga
+product_codeC40,C40,nanocoulomb
+product_codeC41,C41,nanofarad
+product_codeC42,C42,nanofarad por metro
+product_codeC43,C43,nanohenry
+product_codeC44,C44,nanohenry por metro
+product_codeC45,C45,nanometro
+product_codeC46,C46,medidor de nanoohm
+product_codeC47,C47,nanosegundo
+product_codeC48,C48,nanotesla
+product_codeC49,C49,nanovatio
+product_codeC5,C5,costo
+product_codeC50,C50,neper
+product_codeC51,C51,neper por segundo
+product_codeC52,C52,picometro
+product_codeC53,C53,metro de newton segundo
+product_codeC54,C54,newton metro cuadrado kilogramo cuadrado
+product_codeC55,C55,newton por metro cuadrado
+product_codeC56,C56,newton por milímetro cuadrado
+product_codeC57,C57,newton segundo
+product_codeC58,C58,newton segundo por metro
+product_codeC59,C59,octava
+product_codeC6,C6,célula
+product_codeC60,C60,ohm centímetro
+product_codeC61,C61,ohm metro
+product_codeC62,C62,uno
+product_codeC63,C63,parsec
+product_codeC64,C64,pascal por kelvin
+product_codeC65,C65,segundo pascal
+product_codeC66,C66,segundo pascal por metro cúbico
+product_codeC67,C67,segundo pascal por metro
+product_codeC68,C68,petajoule
+product_codeC69,C69,telefono
+product_codeC7,C7,centipoise
+product_codeC70,C70,picoampere
+product_codeC71,C71,picocoulomb
+product_codeC72,C72,picofarad por metro
+product_codeC73,C73,picohenry
+product_codeC75,C75,picowatt
+product_codeC76,C76,picowatt por metro cuadrado
+product_codeC77,C77,medidor de libras
+product_codeC78,C78,fuerza de libra
+product_codeC8,C8,Millicoulomb por kilogramo
+product_codeC80,C80,rad
+product_codeC81,C81,radián
+product_codeC82,C82,medidor de radianes al cuadrado por mol
+product_codeC83,C83,medidor de radianes al cuadrado por kilogramo
+product_codeC84,C84,radian por metro
+product_codeC85,C85,â € ngstr recíproco “m
+product_codeC86,C86,metro cúbico recíproco
+product_codeC87,C87,metro cúbico recíproco por segundo
+product_codeC88,C88,voltios de electrones recíprocos por metro cúbico
+product_codeC89,C89,Henry Recíproco
+product_codeC9,C9,grupo de bobina
+product_codeC90,C90,Joule recíproco por metro cúbico
+product_codeC91,C91,kelvin recíproco o kelvin al poder menos uno
+product_codeC92,C92,medidor recíproco
+product_codeC93,C93,metro cuadrado recíproco
+product_codeC94,C94,minuto recíproco
+product_codeC95,C95,mole recíproco
+product_codeC96,C96,Pascal recíproco o pascal a la potencia menos uno.
+product_codeC97,C97,segundo recíproco
+product_codeC98,C98,segundo recíproco por metro cúbico
+product_codeC99,C99,segundo recíproco por metro cuadrado
+product_codeCA,CA,Caja
+product_codeCCT,CCT,Capacidad de carga en toneladas métricas.
+product_codeCDL,CDL,candela
+product_codeCEL,CEL,grado Celsius
+product_codeCEN,CEN,cien
+product_codeCG,CG,tarjeta
+product_codeCGM,CGM,centigramo
+product_codeCH,CH,envase
+product_codeCJ,CJ,cono
+product_codeCK,CK,conector
+product_codeCKG,CKG,Coulomb por kilogramo
+product_codeCL,CL,bobina
+product_codeCLF,CLF,cientos de licencia
+product_codeCLT,CLT,centilitro
+product_codeCMK,CMK,centímetro cuadrado
+product_codeCMQ,CMQ,centímetro cúbico
+product_codeCMT,CMT,centímetro
+product_codeCNP,CNP,paquete de cien
+product_codeCNT,CNT,Cental (Reino Unido)
+product_codeCO,CO,garrafón
+product_codeCOU,COU,culombio
+product_codeCQ,CQ,cartucho
+product_codeCR,CR,caja
+product_codeCS,CS,caso
+product_codeCT,CT,caja de cartón
+product_codeCTM,CTM,quilate métrico
+product_codeCU,CU,vaso
+product_codeCUR,CUR,curie
+product_codeCV,CV,cubrir
+product_codeCWA,CWA,cien libras (quintales) / cien pesos (US)
+product_codeCWI,CWI,cien pesos (Reino Unido)
+product_codeCY,CY,cilindro
+product_codeCZ,CZ,combo
+product_codeD1,D1,segundo recíproco por esteradiano
+product_codeD10,D10,siemens por metro
+product_codeD12,D12,siemens metro cuadrado por mol
+product_codeD13,D13,sievert
+product_codeD14,D14,mil yardas lineales
+product_codeD15,D15,sone
+product_codeD16,D16,centímetro cuadrado por ergio
+product_codeD17,D17,centímetro cuadrado por erg esterlina
+product_codeD18,D18,metro kelvin
+product_codeD19,D19,kelvin metro cuadrado por vatio
+product_codeD2,D2,segundo recíproco por metros cuadrados esteradianos
+product_codeD20,D20,metro cuadrado por julio
+product_codeD21,D21,metro cuadrado por kilogramo
+product_codeD22,D22,metro cuadrado por mol
+product_codeD23,D23,pluma gramo (proteína)
+product_codeD24,D24,metro cuadrado por esterilizador
+product_codeD25,D25,metro cuadrado por julios esteradianos
+product_codeD26,D26,metro cuadrado por voltio segundo
+product_codeD27,D27,esteradiano
+product_codeD28,D28,sifón
+product_codeD29,D29,terahercios
+product_codeD30,D30,terajulio
+product_codeD31,D31,teravatio
+product_codeD32,D32,hora de teravatio
+product_codeD33,D33,tesla
+product_codeD34,D34,Texas
+product_codeD35,D35,caloría termoquímica
+product_codeD37,D37,caloría termoquímica por gramo kelvin
+product_codeD38,D38,calorías termoquímicas por segundo centímetro kelvin
+product_codeD39,D39,calorías termoquímicas por segundo centímetro cuadrado kelvin
+product_codeD40,D40,mil litros
+product_codeD41,D41,tonelada por metro cúbico
+product_codeD42,D42,año tropical
+product_codeD43,D43,unidad de masa atómica unificada
+product_codeD44,D44,var
+product_codeD45,D45,voltios al cuadrado por kelvin al cuadrado
+product_codeD46,D46,voltio – amperio
+product_codeD47,D47,voltio por centímetro
+product_codeD48,D48,voltio por kelvin
+product_codeD49,D49,milivoltios por kelvin
+product_codeD5,D5,kilogramo por centímetro cuadrado
+product_codeD50,D50,voltios por metro
+product_codeD51,D51,voltios por milímetro
+product_codeD52,D52,vatios por kelvin
+product_codeD53,D53,vatios por metro kelvin
+product_codeD54,D54,vatios por metro cuadrado
+product_codeD55,D55,vatios por metro cuadrado kelvin
+product_codeD56,D56,vatios por metro cuadrado de kelvin a la cuarta potencia
+product_codeD57,D57,vatios por steradian
+product_codeD58,D58,vatios por metro cuadrado esterlino
+product_codeD59,D59,weber por metro
+product_codeD6,D6,röntgen por segundo
+product_codeD60,D60,weber por milímetro
+product_codeD61,D61,minuto
+product_codeD62,D62,segundo
+product_codeD63,D63,libro
+product_codeD64,D64,bloquear
+product_codeD65,D65,redondo
+product_codeD66,D66,casete
+product_codeD67,D67,dólar por hora
+product_codeD69,D69,pulgada a la cuarta potencia
+product_codeD7,D7,Sandwich
+product_codeD70,D70,Tabla Internacional (IT) caloría
+product_codeD71,D71,Tabla Internacional (IT) calorías por segundo centímetro kelvin
+product_codeD72,D72,Tabla Internacional (IT) calorías por segundo centímetro cuadrado kelvin
+product_codeD73,D73,joule metro cuadrado
+product_codeD74,D74,kilogramo por mol
+product_codeD75,D75,Tabla Internacional (IT) calorías por gramo
+product_codeD76,D76,Tabla Internacional (IT) calorías por gramo kelvin
+product_codeD77,D77,megacoulomb
+product_codeD79,D79,haz
+product_codeD8,D8,puntaje de drenaje
+product_codeD80,D80,microwatt
+product_codeD81,D81,microtesla
+product_codeD82,D82,microvoltio
+product_codeD83,D83,medidor de millinewton
+product_codeD85,D85,microwatt por metro cuadrado
+product_codeD86,D86,Millicoulomb
+product_codeD87,D87,milimol por kilogramo
+product_codeD88,D88,millicoulomb por metro cúbico
+product_codeD89,D89,millicoulomb por metro cuadrado
+product_codeD9,D9,dina por centímetro cuadrado
+product_codeD90,D90,metro cúbico (neto)
+product_codeD91,D91,movimiento rápido del ojo
+product_codeD92,D92,banda
+product_codeD93,D93,segundo por metro cúbico
+product_codeD94,D94,segundo por metro cúbico radianes
+product_codeD95,D95,julios por gramo
+product_codeD96,D96,libra bruta
+product_codeD97,D97,carga de palet / unidad
+product_codeD98,D98,libra de masa
+product_codeD99,D99,manga
+product_codeDAA,DAA,despreciar
+product_codeDAD,DAD,diez dias
+product_codeDAY,DAY,día
+product_codeDB,DB,libra seca
+product_codeDC,DC,disco
+product_codeDD,DD,la licenciatura
+product_codeDE,DE,acuerdo
+product_codeDEC,DEC,década
+product_codeDG,DG,decigramo
+product_codeDI,DI,dispensador
+product_codeDJ,DJ,decagramo
+product_codeDLT,DLT,decilitro
+product_codeDMK,DMK,nformaci cuadrado
+product_codeDMQ,DMQ,decímetro cúbico
+product_codeDMT,DMT,decímetro
+product_codeDN,DN,medidor de decinewton
+product_codeDPC,DPC,docena pieza
+product_codeDPR,DPR,docena par
+product_codeDPT,DPT,tonelaje de desplazamiento
+product_codeDQ,DQ,registro de datos
+product_codeDR,DR,tambor
+product_codeDRA,DRA,dram (US)
+product_codeDRI,DRI,dram (Reino Unido)
+product_codeDRL,DRL,docena rollo
+product_codeDRM,DRM,dracma (Reino Unido)
+product_codeDS,DS,monitor
+product_codeDT,DT,tonelada seca
+product_codeDTN,DTN,Decitonne
+product_codeDU,DU,dina
+product_codeDWT,DWT,pennyweight
+product_codeDX,DX,dina por centímetro
+product_codeDY,DY,libro de directorio
+product_codeDZN,DZN,docena
+product_codeDZP,DZP,paquete de doce
+product_codeE2,E2,cinturón
+product_codeE3,E3,remolque
+product_codeE4,E4,kilogramo bruto
+product_codeE5,E5,tonelada métrica larga
+product_codeEA,EA,cada
+product_codeEB,EB,casilla de correo electrónico
+product_codeCE,CE,cada uno por mes
+product_codeEP,EP,paquete de once
+product_codeEQ,EQ,galón equivalente
+product_codeEV,EV,sobre
+product_codeF1,F1,mil pies cúbicos por día
+product_codeF9,F9,Fibra por centímetro cúbico de aire
+product_codeFAH,FAH,grado Fahrenheit
+product_codeFAR,FAR,faradio
+product_codeFB,FB,campo
+product_codeFC,FC,mil pies cúbicos
+product_codeFD,FD,millón de partículas por pie cúbico
+product_codeFE,FE,pie de pista
+product_codeFF,FF,cien metros cúbicos
+product_codeFG,FG,parche transdérmico
+product_codeFH,FH,micromol
+product_codeFL,FL,tonelada en escamas
+product_codeFM,FM,millones de pies cúbicos
+product_codeFOT,FOT,pie
+product_codeFP,FP,libra por pie cuadrado
+product_codeFR,FR,pie por minuto
+product_codeFS,FS,pie por segundo
+product_codeFTK,FTK,pie cuadrado
+product_codeFTQ,FTQ,pie cubico
+product_codeG2,G2,US galones por minuto
+product_codeG3,G3,Galon imperial por minuto
+product_codeG7,G7,hoja de microficha
+product_codeGB,GB,galón (US) por día
+product_codeGBQ,GBQ,gigabecquerel
+product_codeGC,GC,gramo por 100 gramo
+product_codeGD,GD,barril bruto
+product_codeGE,GE,libra por galón (US)
+product_codeGF,GF,gramo por metro (gramo por 100 centímetros)
+product_codeGFI,GFI,gramo de isótopo fisionable
+product_codeGGR,GGR,gramo
+product_codeGH,GH,medio galón (EE. UU.)
+product_codeGIA,GIA,branquias
+product_codeGII,GII,Gill (Reino Unido)
+product_codeGJ,GJ,gramo por mililitro
+product_codeG K,G K,gramo por kilogramo
+product_codeGL,GL,gramo por litro
+product_codeGLD,GLD,galón seco (EE. UU.)
+product_codeGLI,GLI,galón (Reino Unido)
+product_codeGLL,GLL,galón
+product_codeGM,GM,gramo por metro cuadrado
+product_codeGN,GN,galón bruto
+product_codeGO,GO,miligramos por metro cuadrado
+product_codeGP,GP,miligramo por metro cúbico
+product_codeGQ,GQ,microgramos por metro cúbico
+product_codeGRM,GRM,gramo
+product_codeGRN,GRN,grano
+product_codeGRO,GRO,bruto
+product_codeGRT,GRT,tonelada de registro bruto
+product_codeGT,GT,tonelada bruta
+product_codeGV,GV,gigajoule
+product_codeGW,GW,galón por mil pies cúbicos
+product_codeGWH,GWH,hora de gigavatios
+product_codeGY,GY,patio bruto
+product_codeGZ,GZ,sistema de medición
+product_codeH1,H1,media página – electrónica
+product_codeH2,H2,medio litro
+product_codeHA,HA,madeja
+product_codeHAR,HAR,hectárea
+product_codeHBA,HBA,hectobar
+product_codeHBX,HBX,cien cajas
+product_codeHC,HC,cien cuentas
+product_codeHD,HD,media docena
+product_codeÉL,ÉL,centésima de quilate
+product_codeHF,HF,cien pies
+product_codeHGM,HGM,hectogramo
+product_codeHH,HH,cien pies cúbicos
+product_codeHI,HI,cien hojas
+product_codeHIU,HIU,cien unidades internacionales
+product_codeHJ,HJ,caballo métrico
+product_codeHK,HK,cien kilogramos
+product_codeHL,HL,cien pies (lineales)
+product_codeHLT,HLT,hectolitro
+product_codeHM,HM,milla por hora
+product_codeHMQ,HMQ,millones de metros cúbicos
+product_codeHMT,HMT,hectómetro
+product_codeHN,HN,milímetro convencional de mercurio
+product_codeHO,HO,cien onzas troy
+product_codeHP,HP,milímetro convencional de agua
+product_codeHPA,HPA,hectolitro de alcohol puro
+product_codeHS,HS,cien pies cuadrados
+product_codeHT,HT,media hora
+product_codeHTZ,HTZ,hertz
+product_codeHUR,HUR,hora
+product_codeHY,HY,cien yardas
+product_codeIA,IA,pulgada libra
+product_codeIC,IC,contar por pulgada
+product_codeIE,IE,persona
+product_codeIF,IF,pulgadas de agua
+product_codeII,II,columna pulgada
+product_codeIL,IL,pulgada por minuto
+product_codeIM,IM,impresión
+product_codeINH,INH,pulgada
+product_codeINK,INK,pulgada cuadrada
+product_codeINQ,INQ,pulgada en cubos
+product_codeIP,IP,póliza de seguros
+product_codeIT,IT,conteo por centímetro
+product_codeIU,IU,pulgada por segundo (velocidad lineal)
+product_codeIV,IV,pulgada por segundo al cuadrado (aceleración)
+product_codeJ2,J2,julios por kilogramo
+product_codeJB,JB,jumbo
+product_codeJE,JE,joule por kelvin
+product_codeJG,JG,jarra
+product_codeJK,JK,megajulio por kilogramo
+product_codeJM,JM,megajulio por metro cúbico
+product_codeJO,JO,articulación
+product_codeJOU,JOU,joule
+product_codeJR,JR,tarro
+product_codeK1,K1,demanda de kilovatios
+product_codeK2,K2,kilovoltios amperios reactivos de demanda
+product_codeK3,K3,kilovoltio amperio hora reactiva
+product_codeK5,K5,amperios kilovoltios (reactivos)
+product_codeK6,K6,kilolitro
+product_codeKA,KA,pastel
+product_codeKB,KB,kilocharacter
+product_codeKBA,KBA,kilobar
+product_codeKD,KD,kilogramo decimal
+product_codeKEL,KEL,kelvin
+product_codeKF,KF,kilopacket
+product_codeKG,KG,barrilete
+product_codeKGM,KGM,kilogramo
+product_codeKGS,KGS,kilogramo por segundo
+product_codeKHZ,KHZ,kilohercio
+product_codeKI,KI,Kilogramo por milímetro de ancho
+product_codeKJ,KJ,kilosegmento
+product_codeKJO,KJO,kilojoule
+product_codeKL,KL,kilogramo por metro
+product_codeKMH,KMH,kilómetro por hora
+product_codeKMK,KMK,kilometro cuadrado
+product_codeKMQ,KMQ,kilogramo por metro cúbico
+product_codeKNI,KNI,kilogramo de nitrógeno
+product_codeKNS,KNS,kilogramo de sustancia nombrada
+product_codeKNT,KNT,nudo
+product_codeKO,KO,Milliequivalencia de potasa cáustica por gramo de producto.
+product_codeKPA,KPA,kilopascal
+product_codeKPH,KPH,kilogramo de hidróxido de potasio (potasa cáustica)
+product_codeKPO,KPO,kilogramo de óxido de potasio
+product_codeKPP,KPP,kilogramo de pentóxido de fósforo (anhídrido fosfórico)
+product_codeKR,KR,KilorÃ¶ntgen
+product_codeKS,KS,mil libras por pulgada cuadrada
+product_codeKSD,KSD,kilogramo de sustancia 90% seca
+product_codeKSH,KSH,kilogramo de hidróxido de sodio (soda cáustica)
+product_codeKT,KT,equipo
+product_codeKTM,KTM,kilómetro
+product_codeKTN,KTN,kilotonne
+product_codeKUR,KUR,kilogramo de uranio
+product_codeKVA,KVA,kilovoltio – ampere
+product_codeKVR,KVR,kilovar
+product_codeKVT,KVT,kilovoltio
+product_codeKW,KW,kilogramos por milímetro
+product_codeKWH,KWH,kilovatios hora
+product_codeKWT,KWT,kilovatio
+product_codeKX,KX,mililitro por kilogramo
+product_codeL2,L2,litro por minuto
+product_codeLA,LA,libra por pulgada cúbica
+product_codeLBR,LBR,libra
+product_codeLBT,LBT,libra troy
+product_codeLC,LC,centímetro lineal
+product_codeLD,LD,litro por día
+product_codeLE,LE,lite
+product_codeLEF,LEF,hoja
+product_codeLF,LF,pie lineal
+product_codeLH,LH,hora de trabajo
+product_codeLI,LI,pulgada lineal
+product_codeLJ,LJ,spray grande
+product_codeLK,LK,enlazar
+product_codeLM,LM,metro lineal
+product_codeLN,LN,longitud
+product_codeLO,LO,mucho
+product_codeLP,LP,libra liquida
+product_codeLPA,LPA,litro de alcohol puro
+product_codeLR,LR,capa
+product_codeLS,LS,Suma global
+product_codeLTN,LTN,ton (Reino Unido) o longton (EE. UU.)
+product_codeLTR,LTR,litro
+product_codeLUM,LUM,lumen
+product_codeLUX,LUX,lux
+product_codeLX,LX,yarda lineal por libra
+product_codeLY,LY,yarda lineal
+product_codeM0,M0,cinta magnética
+product_codeM1,M1,miligramos por litro
+product_codeM4,M4,valor monetario
+product_codeM5,M5,microcurie
+product_codeM7,M7,micropulgada
+product_codeM9,M9,millones de Btu por 1000 pies cúbicos
+product_codeMA,MA,máquina por unidad
+product_codeMAL,MAL,mega litro
+product_codeMAM,MAM,megametro
+product_codeMAW,MAW,megavatio
+product_codeMBE,MBE,mil equivalentes de ladrillo estándar
+product_codeMBF,MBF,mil pies de tabla
+product_codeMBR,MBR,milibar
+product_codeMC,MC,microgramo
+product_codeMCU,MCU,milicurie
+product_codeMD,MD,aire seco tonelada métrica
+product_codeMF,MF,miligramo por pie cuadrado por lado
+product_codeMGM,MGM,miligramo
+product_codeMGM,MGM,megahercio
+product_codeMIK,MIK,milla cuadrada
+product_codeMIL,MIL,mil
+product_codeMIN,MIN,minuto
+product_codeMIO,MIO,millón
+product_codeMIU,MIU,millones de unidades internacionales
+product_codeMK,MK,miligramo por pulgada cuadrada
+product_codeMLD,MLD,mil millones
+product_codeMLT,MLT,mililitro
+product_codeMMK,MMK,milímetro cuadrado
+product_codeMMQ,MMQ,milímetro cúbico
+product_codeMMT,MMT,milímetro
+product_codeLUN,LUN,mes
+product_codeMPA,MPA,megapascal
+product_codeMQ,MQ,mil metros
+product_codeMQH,MQH,metro cúbico por hora
+product_codeMQS,MQS,metro cúbico por segundo
+product_codeMSK,MSK,metro por segundo al cuadrado
+product_codeMT,MT,estera
+product_codeMTK,MTK,metro cuadrado
+product_codeMTQ,MTQ,Metro cúbico
+product_codeMTR,MTR,metro
+product_codeMTS,MTS,metro por segundo
+product_codeMV,MV,numero de mults
+product_codeMVA,MVA,megavolt – ampere
+product_codeMWH,MWH,megavatios hora (1000 kW.h)
+product_codeN1,N1,calorías de la pluma
+product_codeN2,N2,número de líneas
+product_codeN3,N3,punto de impresión
+product_codeNA,NA,miligramo por kilogramo
+product_codeNAR,NAR,número de artículos
+product_codeNB,NB,barcaza
+product_codeNBB,NBB,número de bobinas
+product_codeNC,NC,coche
+product_codeNCL,NCL,número de celdas
+product_codeND,ND,barril neto
+product_codeNE,NE,litro neto
+product_codeNEW,NEW,newton
+product_codeNF,NF,mensaje
+product_codeNG,NG,galón neto (nosotros)
+product_codeNH,NH,hora del mensaje
+product_codeNI,NI,galón imperial neto
+product_codeNIU,NIU,número de unidades internacionales
+product_codeNJ,NJ,número de pantallas
+product_codeNL,NL,carga
+product_codeMNI,MNI,milla nautica
+product_codeNMP,NMP,número de paquetes
+product_codeNN,NN,entrenar
+product_codeNPL,NPL,número de parcelas
+product_codeNPR,NPR,numero de pares
+product_codeTNP,TNP,numero de partes
+product_codeNQ,NQ,mho
+product_codeNR,NR,micromho
+product_codeNRL,NRL,número de rollos
+product_codeNT,NT,tonelada neta
+product_codeNTT,NTT,registro neto de toneladas
+product_codeNU,NU,medidor de newton
+product_codeNV,NV,vehículo
+product_codeNX,NX,parte por mil
+product_codeNY,NY,libra por aire seco tonelada métrica
+product_codeOA,OA,panel
+product_codeOHM,OHM,ohm
+product_codeEN,EN,onza por yarda cuadrada
+product_codeONZ,ONZ,onza
+product_codeOP,OP,Dos paquetes
+product_codeOT,OT,hora extra
+product_codeONZ,ONZ,onza av
+product_codeOZA,OZA,onza líquida (US)
+product_codeOZI,OZI,onza líquida (Reino Unido)
+product_codeP0,P0,pagina – electronica
+product_codeP1,P1,por ciento
+product_codeP2,P2,libra por pie
+product_codeP3,P3,paquete de tres
+product_codeP4,P4,paquete de cuatro
+product_codeP5,P5,paquete de cinco
+product_codeP6,P6,paquete de seis
+product_codeP7,P7,paquete de siete
+product_codeP8,P8,paquete de ocho
+product_codeP9,P9,paquete de nueve
+product_codePA,PA,paquete
+product_codePAL,PAL,pascal
+product_codePB,PB,par de pulgadas
+product_codePD,PD,almohadilla
+product_codePE,PE,equivalente en libras
+product_codePF,PF,palet (ascensor)
+product_codePG,PG,plato
+product_codePGL,PGL,galón de prueba
+product_codePi,Pi,tono
+product_codePK,PK,paquete
+product_codePL,PL,cubo
+product_codePM,PM,porcentaje de libra
+product_codePN,PN,libra neta
+product_codePO,PO,libra por pulgada de longitud
+product_codePQ,PQ,página por pulgada
+product_codePR,PR,par
+product_codePD,PD,fuerza de libra por pulgada cuadrada
+product_codePT,PT,pinta
+product_codePTD,PTD,pinta seca
+product_codePTI,PTI,pinta (Reino Unido)
+product_codePTL,PTL,pinta liquida (US)
+product_codePU,PU,bandeja / paquete de bandeja
+product_codePV,PV,media pinta (US)
+product_codePW,PW,libra por pulgada de ancho
+product_codePY,PY,Peck Dry (US)
+product_codePZ,PZ,Peck Dry (Reino Unido)
+product_codeQ3,Q3,comida
+product_codeQA,QA,página – facsímil
+product_codeQAN,QAN,cuarto (de un año)
+product_codeQB,QB,página – copia impresa
+product_codeQD,QD,cuarto de docena
+product_codeQH,QH,un cuarto de hora
+product_codeQK,QK,cuarto de kilogramo
+product_codeQR,QR,mano de papel
+product_codeQT,QT,cuarto de galón (US)
+product_codeQTD,QTD,cuarto seco (EE. UU.)
+product_codeQTI,QTI,cuarto de galón (Reino Unido)
+product_codeQTL,QTL,cuarto líquido (US)
+product_codeQTR,QTR,cuarto (UK)
+product_codeR1,R1,pica
+product_codeR4,R4,caloría
+product_codeR9,R9,mil metros cúbicos
+product_codeRA,RA,estante
+product_codeRD,RD,barra
+product_codeRG,RG,anillo
+product_codeRH,RH,hora de funcionamiento o de funcionamiento
+product_codeRK,RK,medida métrica rollo
+product_codeRL,RL,carrete
+product_codeRM,RM,resma
+product_codeRN,RN,medida métrica de resma
+product_codeRO,RO,rodar
+product_codeRP,RP,libra por resma
+product_codeRPM,RPM,revoluciones por minuto
+product_codeRPS,RPS,revoluciones por segundo
+product_codeRS,RS,Reiniciar
+product_codeRT,RT,ingreso tonelada milla
+product_codeRU,RU,correr
+product_codeS3,S3,pie cuadrado por segundo
+product_codeS4,S4,metro cuadrado por segundo
+product_codeS5,S5,sesenta cuartos de pulgada
+product_codeS6,S6,sesión
+product_codeS7,S7,unidad de almacenamiento
+product_codeS8,S8,unidad de publicidad estándar
+product_codeSA,SA,saco
+product_codeSAN,SAN,medio año (6 meses)
+product_codeOCS,OCS,Puntuación
+product_codeSCR,SCR,escrúpulo
+product_codeSD,SD,libra solida
+product_codeSE,SE,sección
+product_codeSEC,SEC,segundo
+product_codeSET,SET,conjunto
+product_codeSG,SG,segmento
+product_codeSHT,SHT,tonelada de envío
+product_codeSIE,SIE,siemens
+product_codeSK,SK,camión cisterna dividido
+product_codeSL,SL,hoja de deslizamiento
+product_codeSMI,SMI,milla (milla estatutaria)
+product_codeSN,SN,varilla cuadrada
+product_codeSO,SO,carrete
+product_codeSP,SP,paquete de estante
+product_codeSQ,SQ,cuadrado
+product_codeSR,SR,tira
+product_codeSS,SS,hoja métrica medida
+product_codeSST,SST,corto estándar (7200 partidos)
+product_codeST,ST,hoja
+product_codeITS,ITS,piedra (Reino Unido)
+product_codeSTN,STN,tonelada (US) o tonelada corta (UK / US)
+product_codeSV,SV,patinar
+product_codeSO,SO,madeja
+product_codeSX,SX,envío
+product_codeT0,T0,Línea de telecomunicaciones en servicio.
+product_codeT1,T1,mil libras brutas
+product_codeT3,T3,mil piezas
+product_codeT4,T4,bolsa de mil
+product_codeT5,T5,caja de mil
+product_codeT6,T6,mil galones (US)
+product_codeT7,T7,mil impresiones
+product_codeT8,T8,mil pulgadas lineales
+product_codeTA,TA,décimo pie cúbico
+product_codeTAH,TAH,Kiloampere hora (mil amperios hora)
+product_codeTC,TC,camion
+product_codeTD,TD,termia
+product_codeTE,TE,totalizador
+product_codeTF,TF,diez metros cuadrados
+product_codeTI,TI,mil pulgadas cuadradas
+product_codeTJ,TJ,mil centímetros cuadrados
+product_codeTK,TK,"tanque, rectangular"
+product_codeTL,TL,mil pies (lineales)
+product_codeTN,TN,estaño
+product_codeTNE,TNE,tonelada (tonelada métrica)
+product_codeTP,TP,paquete de diez
+product_codeTPR,TPR,diez pares
+product_codeTQ,TQ,mil pies
+product_codeTQD,TQD,mil metros cúbicos por día
+product_codeTR,TR,diez pies cuadrados
+product_codeTRL,TRL,trillón (EUR)
+product_codeTS,TS,mil pies cuadrados
+product_codeTSD,TSD,tonelada de sustancia 90% seca
+product_codeTSH,TSH,tonelada de vapor por hora
+product_codeTT,TT,mil metros lineales
+product_codeTU,TU,tubo
+product_codeTV,TV,mil kilogramos
+product_codeTW,TW,mil hojas
+product_codeTY,TY,"tanque, cilíndrico"
+product_codeU1,U1,tratamiento
+product_codeU2,U2,tableta
+product_codeUA,UA,torr
+product_codeUB,UB,Línea de telecomunicaciones en servicio promedio.
+product_codeUC,UC,puerto de telecomunicaciones
+product_codeUD,UD,décimo minuto
+product_codeUE,UE,décima hora
+product_codeUF,UF,uso por línea de telecomunicación promedio
+product_codeUH,UH,diez mil yardas
+product_codeUM,UM,millones de unidades
+product_codeVA,VA,voltio amperio por kilogramo
+product_codeVI,VI,frasco
+product_codeVLT,VLT,voltio
+product_codeVQ,VQ,abultar
+product_codeVS,VS,visitar
+product_codeW2,W2,kilo mojado
+product_codeW4,W4,dos semanas
+product_codeWA,WA,vatio por kilogramo
+product_codeWB,WB,libra mojada
+product_codeWCD,WCD,cable
+product_codeWE,WE,tonelada mojada
+product_codeWEB,WEB,weber
+product_codeWEE,WEE,semana
+product_codeWG,WG,galon de vino
+product_codeWH,WH,rueda
+product_codeWHR,WHR,vatios hora
+product_codeWI,WI,peso por pulgada cuadrada
+product_codeWM,WM,mes de trabajo
+product_codeWR,WR,envolver
+product_codeWSD,WSD,estándar
+product_codeWTT,WTT,vatio
+product_codeWW,WW,mililitro de agua
+product_codeX1,X1,cadena
+product_codeYDK,YDK,yarda cuadrada
+product_codeYDQ,YDQ,Yarda cúbica
+product_codeYL,YL,cien yardas lineales
+product_codeYRD,YRD,yarda
+product_codeYT,YT,diez yardas
+product_codeZ1,Z1,van de elevación
+product_codeZ2,Z2,pecho
+product_codeZ3,Z3,barril
+product_codeZ4,Z4,pipa
+product_codeZ5,Z5,arrastrar
+product_codeZ6,Z6,punto de conferencia
+product_codeZ8,Z8,línea de noticias de ágata
+product_codeZP,ZP,página
+product_codeZZ,ZZ,mutuamente definido

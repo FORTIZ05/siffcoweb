@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<odoo>
+    <data noupdate="1">
+        <record model="ir.cron" id="cron_update_series">
+            <field name="name">Saphety Serie: update series monthly</field>
+            <field name="model_id" ref="model_co_saphety_series"/>
+            <field name="state">code</field>
+            <field name="code">model._cron_update_series()</field>
+            <field name="interval_number">1</field>
+            <field name="interval_type">months</field>
+            <field name="numbercall">-1</field>
+            <field name="doall" eval="False"/>
+        </record>
+        
+        <record model="ir.cron" id="cron_update_codes">
+            <field name="name">Saphety Codes: update codes monthly</field>
+            <field name="model_id" ref="model_res_company"/>
+            <field name="state">code</field>
+            <field name="code">model._update_all_saphety_codes()</field>
+            <field name="interval_number">1</field>
+            <field name="interval_type">months</field>
+            <field name="numbercall">-1</field>
+            <field name="doall" eval="False"/>
+        </record>
+
+        <record model="ir.cron" id="cron_check_saphety_pdf_invoices">
+            <field name="name">Saphety Invoices: check PDF invoices</field>
+            <field name="model_id" ref="model_account_move"/>
+            <field name="state">code</field>
+            <field name="code">model.check_saphety_pdf_invoices()</field>
+            <field name="interval_number">1</field>
+            <field name="interval_type">minutes</field>
+            <field name="numbercall">-1</field>
+            <field name="doall" eval="False"/>
+        </record>
+        
+        <record model="ir.cron" id="cron_check_saphety_status_invoices">
+            <field name="name">Saphety Invoices: check STATUS invoices</field>
+            <field name="model_id" ref="model_account_move"/>
+            <field name="state">code</field>
+            <field name="code">model.check_saphety_status_invoices()</field>
+            <field name="interval_number">1</field>
+            <field name="interval_type">days</field>
+            <field name="numbercall">-1</field>
+            <field name="doall" eval="False"/>
+        </record>
+    </data>
+</odoo>

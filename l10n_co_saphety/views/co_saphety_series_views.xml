@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="utf-8"?>
+<odoo>
+    <record model="ir.ui.view" id="view_list_saphety_series">
+        <field name="name">co.saphety.series.list</field>
+        <field name="model">co.saphety.series</field>
+        <field name="arch" type="xml">
+            <tree>
+                <field name="name"/>
+                <field name="auth_number"/>
+                <field name="prefix"/>
+                <field name="valid_from"/>
+                <field name="valid_to"/>
+                <field name="start_value"/>
+                <field name="end_value"/>
+                <field name="efective_value"/>
+                <field name="document_type"/>
+                <field name="serie_type"/>
+                <field name="state"/>
+            </tree>
+        </field>
+    </record>
+
+    <record model="ir.ui.view" id="view_search_saphety_series">
+        <field name="name">co.saphety.series.search</field>
+        <field name="model">co.saphety.series</field>
+        <field name="arch" type="xml">
+            <search>
+                <field name="name"/>
+                <field name="auth_number"/>
+                <field name="prefix"/>
+                <field name="valid_from"/>
+                <field name="valid_to"/>
+                <field name="start_value"/>
+                <field name="end_value"/>
+                <field name="efective_value"/>
+                <field name="document_type"/>
+                <field name="serie_type"/>
+                <field name="state"/>
+            </search>
+        </field>
+    </record>
+
+    <record model="ir.ui.view" id="view_form_saphety_series">
+        <field name="name">co.saphety.series.form</field>
+        <field name="model">co.saphety.series</field>
+        <field name="arch" type="xml">
+            <form>
+                <header>
+                    <!--button type="object" name="action_send" string="Send" class="oe_highlight"/>
+
+                    <field name="state" widget="statusbar"/-->
+                </header>
+                <sheet>
+                    <div class="oe_title">
+                        <label for="name" class="oe_edit_only"/>
+                        <h1>
+                            <field name="name"/>
+                        </h1>
+                    </div>
+                    <group>
+                        <group>
+                            <field name="auth_number"/>
+                            <field name="prefix"/>
+                            <field name="valid_from"/>
+                            <field name="valid_to"/>
+                        </group>
+                        <group>
+                            <field name="start_value"/>
+                            <field name="end_value"/>
+                            <field name="efective_value"/>
+                            <field name="document_type"/>
+                            <field name="serie_type"/>
+                            <field name="sequence_id"/>
+                        </group>
+                    </group>
+                </sheet>
+            </form>
+        </field>
+    </record>
+
+    <record model="ir.actions.act_window" id="action_view_list_saphety_series">
+        <field name="name">Saphety Series</field>
+        <field name="res_model">co.saphety.series</field>
+        <field name="view_mode">tree,form</field>
+        <field name="view_id" ref="view_list_saphety_series"/>
+        <field name="help" type="html">
+            <p class="o_view_nocontent_smiling_face">
+                Click to add a new
+                <b>saphety serie</b>
+            </p>
+        </field>
+    </record>
+</odoo>

@@ -1,0 +1,5 @@
+id,code,name
+code_rejet01,01,Documento con inconsistencias
+code_rejet02,02,Mercancía no entregada totalmente
+code_rejet03,03,Mercancía no entregada parcialmente
+code_rejet04,04,Servicio no prestado

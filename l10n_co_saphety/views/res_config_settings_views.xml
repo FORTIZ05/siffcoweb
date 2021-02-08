@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="utf-8"?>
+<odoo>
+    <record model="ir.ui.view" id="res_config_settings_view_form">
+        <field name="name">res.config.settings.view.form.inherit.l10n_co_saphety</field>
+        <field name="model">res.config.settings</field>
+        <field name="inherit_id" ref="account.res_config_settings_view_form"/>
+        <field name="arch" type="xml">
+            <xpath expr="//div[@id='analytic']" position="after">
+                <h2>Saphety : Electronic Invoice Provider</h2>
+                <div class="row mt16 o_settings_container">
+                    <div class="col-12 col-lg-6 o_setting_box">
+                        <div class="o_setting_right_pane">
+                            <span class="o_form_label">
+                                Saphety
+                            </span>
+                            <br/>
+                            <button name="action_saphety_config_wizard" icon="fa-arrow-right" type="object" string="Configure Wizard" class="btn-link"/>
+                        </div>
+                    </div>
+                    <div class="col-xs-12 col-md-6 o_setting_box">
+                        <div class="o_setting_left_pane"/>
+                        <div class="o_setting_right_pane">
+                            <label for="saphety_mode"/>
+                            <div class="text-muted">
+                                <field name="saphety_mode"/>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-xs-12 col-md-6 o_setting_box">
+                        <div class="row">
+                            <div class="col-md-4">
+                                <label for="saphety_username"/>
+                            </div>
+                            <div class="col-md-8">
+                                <field name="saphety_username"/>
+                            </div>
+                        </div>
+                        <div class="row">
+                            <div class="col-md-4">
+                                <label for="saphety_password"/>
+                            </div>
+                            <div class="col-md-8">
+                                <field name="saphety_password" password="password"/>
+                            </div>
+                        </div>
+                        <div class="row">
+                            <div class="col-md-4">
+                                <label for="saphety_virtual_operator"/>
+                            </div>
+                            <div class="col-md-8">
+                                <field name="saphety_virtual_operator"/>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </xpath>
+        </field>
+    </record>
+
+    <!--record model="ir.ui.view" id="res_config_settings_view_form">
+        <field name="name">res.config.settings.view.form.inherit.l10n_co_saphety</field>
+        <field name="model">res.config.settings</field>
+        <field name="inherit_id" ref="account.res_config_settings_view_form"/>
+        <field name="arch" type="xml">
+            <xpath expr="//div[@id='analytic']" position="after">
+                <h2>Saphety : Electronic Invoice Provider</h2>
+                <div class="row mt16 o_settings_container">
+                    <div class="col-xs-12 col-md-6 o_setting_box">
+                        <div class="o_setting_left_pane"/>
+                        <div class="o_setting_right_pane">
+                            <label for="saphety_mode"/>
+                            <div class="text-muted">
+                                <field name="saphety_mode"/>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-xs-12 col-md-6 o_setting_box">
+                        <div class="row">
+                            <div class="col-md-4">
+                                <label for="saphety_username"/>
+                            </div>
+                            <div class="col-md-8">
+                                <field name="saphety_username"/>
+                            </div>
+                        </div>
+                        <div class="row">
+                            <div class="col-md-4">
+                                <label for="saphety_password"/>
+                            </div>
+                            <div class="col-md-8">
+                                <field name="saphety_password" password="password"/>
+                            </div>
+                        </div>
+                        <div class="row">
+                            <div class="col-md-4">
+                                <label for="saphety_virtual_operator"/>
+                            </div>
+                            <div class="col-md-8">
+                                <field name="saphety_virtual_operator"/>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </xpath>
+        </field>
+    </record-->
+</odoo>

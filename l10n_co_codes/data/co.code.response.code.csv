@@ -1,0 +1,6 @@
+id,code,name,description
+response_code02,02,Documento validado por la DIAN,DIAN
+response_code04,04,Documento Rechazado por la DIAN,DIAN
+response_code030,030,Acuse de recibo,Receptor de una Factura Electrónica
+response_code031,031,Rechazo de Documento,Receptor de una Factura Electrónica
+response_code033,033,Aceptación expresa de documento,Receptor de una Factura Electrónica

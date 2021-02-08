@@ -1,0 +1,3 @@
+id,name,model_id:id,group_id:id,perm_read,perm_write,perm_create,perm_unlink
+access_co_saphety,co.saphety,model_co_saphety,,1,1,1,1
+access_co_saphety_series,co.saphety.series,model_co_saphety_series,,1,1,1,1

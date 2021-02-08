@@ -1,0 +1,4 @@
+id,code,name
+credit_note20,20,Nota Crédito que referencia una factura electrónica.
+credit_note22,22,Nota Crédito sin referencia a facturas*.
+credit_note23,23,Nota Crédito para facturación electrónica V1 (Decreto 2242).

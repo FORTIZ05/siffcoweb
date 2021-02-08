@@ -1,0 +1,4 @@
+id,code,name
+debit_note30,30,Nota Débito que referencia una factura electrónica.
+debit_note32,32,Nota Débito sin referencia a facturas*.
+debit_note33,33,Nota Débito para facturación electrónica V1 (Decreto 2242).

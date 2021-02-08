@@ -1,0 +1,4 @@
+id,code,name
+reference_price01,01,Valor comercial
+reference_price02,02,Valor en inventarios
+reference_price03,03,Otro valor

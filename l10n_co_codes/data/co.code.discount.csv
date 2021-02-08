@@ -1,0 +1,13 @@
+id,code,name
+discount_code00,00,Descuento por impuesto asumido
+discount_code01,01,Pague uno lleve otro
+discount_code02,02,Descuentos contractulales
+discount_code03,03,Descuento por pronto pago
+discount_code04,04,Envío gratis
+discount_code05,05,Descuentos escpecíficos por inventarios
+discount_code06,06,Descuento por monto de compras
+discount_code07,07,Descuento de temporada
+discount_code08,08,Descuento por acturalización de productos / servicios
+discount_code09,09,Descuento general
+discount_code10,10,Descuento por volumen
+discount_code11,11,Otro descuento

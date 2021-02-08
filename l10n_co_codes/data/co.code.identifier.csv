@@ -1,0 +1,11 @@
+id,code,name
+identifier11,11,Registro civil
+identifier12,12,Tarjeta de identidad
+identifier13,13,Cédula de ciudadanía
+identifier21,21,Tarjeta de extranjería
+identifier22,22,Cédula de extranjería
+identifier31,31,NIT
+identifier41,41,Pasaporte
+identifier42,42,Documento de identificación extranjero
+identifier50,50,NIT de otro país
+identifier91,91,NUIP *

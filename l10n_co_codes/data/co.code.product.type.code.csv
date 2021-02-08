@@ -1,0 +1,5 @@
+id,code,name,agency_code,description
+product_type_code001,001,UNSPSC,10,Colombia Compra Eficiente: utilizar contenido de la columna
+product_type_code010,010,GTIN,9,Números Globales de Identificación de Productos – GTIN
+product_type_code020,020,Partida Arancelarias,195,Partida arancelaria
+product_type_code999,999,Estándar de adopción del contribuyente,,

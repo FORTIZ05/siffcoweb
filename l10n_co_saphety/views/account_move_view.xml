@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<odoo>
+    <record model="ir.ui.view" id="view_move_form_saphety">
+        <field name="name">account.move.inherit.l10n.co.saphety</field>
+        <field name="model">account.move</field>
+        <field name="inherit_id" ref="account.view_move_form"/>
+        <field eval="100" name="priority"/>
+        <field name="arch" type="xml">
+            <xpath expr="//field[@name='ref']" position="before">
+              <field name="co_saphety_mandate_id" attrs="{'invisible': [('co_operation_type', 'not in', ('11'))],'required':[('co_operation_type', 'in', ('11'))]}" 
+                domain="[('l10n_co_document_type','=','rut')]" />
+            </xpath>
+            <xpath expr="//page[@name='other_info']" position="inside">
+              <group id="saphety_tab_group" string="Saphety">
+                  <group attrs="{'invisible': [('type', 'not in', ('out_invoice', 'out_refund'))]}">
+                      <field name="co_saphety_id" readonly="True"/>
+                      <field name="co_saphety_correlation" />
+                      <field name="co_events" />
+                  </group>
+                  <group attrs="{'invisible': [('type', 'not in', ('out_invoice', 'out_refund'))]}">
+                      <field name="co_saphety_cufe" />
+                  </group>
+              </group>
+            </xpath>
+        </field>
+    </record>
+
+    <record model="ir.ui.view" id="view_invoice_tree_saphety">
+        <field name="name">account.move.tree.inherit.l10n.co.saphety</field>
+        <field name="model">account.move</field>
+        <field name="inherit_id" ref="account.view_invoice_tree"/>
+        <field name="arch" type="xml">
+            <xpath expr="//field[@name='state']" position="after">
+              <field name="co_events" />
+            </xpath>
+        </field>
+    </record>    
+
+    <record model="ir.actions.server" id="action_move_check_document_status">
+            <field name="name">Check Saphety Document Status</field>
+            <field name="model_id" ref="account.model_account_move"/>
+            <field name="binding_model_id" ref="account.model_account_move" />
+            <field name="state">code</field>
+            <field name="code">
+if records:
+    action = records.check_saphety_document_status()
+            </field>
+    </record>
+</odoo>

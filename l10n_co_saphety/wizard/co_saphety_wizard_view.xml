@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<odoo>
+    <record model="ir.ui.view" id="view_form_saphety_wizard">
+        <field name="name">co.saphety.wizard.form</field>
+        <field name="model">co.saphety.wizard</field>
+        <field name="arch" type="xml">
+            <form>
+                <group>
+                    <group>
+                        <field name="saphety_username"/>
+                        <field name="saphety_password" password="password" />
+                        <field name="saphety_virtual_operator"/>
+                    </group>
+                    <group>
+                        <field name="saphety_mode"/>
+                        <field name="journal_id"/>
+                        <field name="vat"/>
+                        <field name="company_id"/>
+                    </group>
+                </group>
+                <footer>
+                    <button
+                        name="confirm_saphety_company"
+                        string="Confirm"
+                        type="object"
+                        class="oe_highlight"
+                    />
+                    <button string="Cancel" class="oe_link" special="cancel" />
+                </footer>
+            </form>
+        </field>
+    </record>
+
+    <!--record model="ir.actions.act_window" id="action_view_saphety_wizard">
+        <field name="name">Saphety Wizard</field>
+        <field name="res_model">co.saphety.wizard</field>
+        <field name="view_mode">form</field>
+        <field name="view_id" ref="view_form_saphety_wizard"/>
+        <field name="help" type="html">
+            <p class="o_view_nocontent_smiling_face">
+                Click to add a new
+                <b>saphety serie</b>
+            </p>
+        </field>
+    </record-->
+</odoo>

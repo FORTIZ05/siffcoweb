@@ -1,0 +1,17 @@
+id,code,name,description
+tax01,01,IVA,Impuesto de Valor Agregado
+tax02,02,IC,Impuesto al Consumo Departamental Nominal
+tax03,03,ICA,"Impuesto de Industria, Comercio y Aviso"
+tax04,04,INC,Impuesto Nacional al Consumo
+tax05,05,ReteIVA,Retención sobre el IVA
+tax06,06,ReteFuente,Retención sobre Renta
+tax07,07,ReteICA,Retención sobre el ICA
+tax20,20,FtoHorticultura,Cuota de Fomento Hortifrutícula
+tax21,21,Timbre,Impuesto de Timbre
+tax22,22,Bolsas,Impuesto al Consumo de Bolsa Plástica
+tax23,23,INCarbono,Impuesto Nacional al Carbono
+tax24,24,INCombustibles,Impuesto Nacional a los Combustibles
+tax25,25,Sobretasa Combustibles,Sobretasa a los combustibles
+tax26,26,Sordicom,Contribución minoristas (Combustibles)
+taxZY,ZY,No causa,No responsable de tributo
+taxZZ,ZZ,Nombre de la figura tributaria,"Otros tributos, tasas, contribuciones, y similares"

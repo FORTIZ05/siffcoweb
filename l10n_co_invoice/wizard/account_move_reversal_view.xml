@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<odoo>
+    <data>
+
+        <record id="view_account_move_reversal" model="ir.ui.view">
+            <field name="name">account.move.reversal.form.inherit.l10n.co.invoice</field>
+            <field name="model">account.move.reversal</field>
+            <field name="inherit_id" ref="account.view_account_move_reversal" />
+            <field name="arch" type="xml">
+                <xpath expr="//field[@name='reason']" position="after" >
+                  <field name="co_credit_note_code" attrs="{'required':1}" />
+                </xpath>
+                <xpath expr="//field[@name='reason']" position="attributes" >
+                  <attribute name="attrs">{'invisible': [('move_type', '==', 'entry')], 'reason': [('move_type', '==', 'entry')], 'required':True}</attribute>
+                </xpath>
+                <xpath expr="//button[@name='reverse_moves']" position="attributes" >
+                  <attribute name="context">{'default_co_credit_note_code': co_credit_note_code}</attribute>
+                </xpath>
+            </field>
+        </record>
+
+    </data>
+</odoo>

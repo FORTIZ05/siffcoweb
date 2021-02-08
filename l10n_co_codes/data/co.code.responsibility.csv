@@ -1,0 +1,12 @@
+id,code,name
+responsibility_codeCFR,CFR,Costo y flete
+responsibility_codeCIF,CIF,"Costo, flete y seguro"
+responsibility_codeCIP,CIP,Transporte y Seguro Pagados hasta
+responsibility_codeCPT,CPT,Transporte Pagado Hasta
+responsibility_codeDAP,DAP,Entregado en un Lugar
+responsibility_codeDAT,DAT,Entregado en Terminal
+responsibility_codeDDP,DDP,Entregado con Pago de Derechos
+responsibility_codeEXW,EXW,En Fábrica
+responsibility_codeFAS,FAS,Franco al costado del buque
+responsibility_codeFCA,FCA,Franco transportista
+responsibility_codeFOB,FOB,Franco a bordo

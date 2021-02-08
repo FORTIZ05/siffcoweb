@@ -1,0 +1,78 @@
+id,code,name
+payment_means_code1,1,Instrumento no definido
+payment_means_code2,2,Crédito ACH
+payment_means_code3,3,Débito ACH
+payment_means_code4,4,Reversión débito de demanda ACH
+payment_means_code5,5,Reversión crédito de demanda ACH
+payment_means_code6,6,Crédito de demanda ACH
+payment_means_code7,7,Débito de demanda ACH
+payment_means_code8,8,Mantener
+payment_means_code9,9,Clearing Nacional o Regional
+payment_means_code10,10,Efectivo
+payment_means_code11,11,Reversión Crédito Ahorro
+payment_means_code12,12,Reversión Débito Ahorro
+payment_means_code13,13,Crédito Ahorro
+payment_means_code14,14,Débito Ahorro
+payment_means_code15,15,Bookentry Crédito
+payment_means_code16,16,Bookentry Débito
+payment_means_code17,17,Concentración de la demanda en efectivo /Desembolso Crédito (CCD)
+payment_means_code18,18,Concentración de la demanda en efectivo / Desembolso (CCD) débito
+payment_means_code19,19,Crédito Pago negocio corporativo (CTP)
+payment_means_code20,20,Cheque
+payment_means_code21,21,Poyecto bancario
+payment_means_code22,22,Proyecto bancario certificado
+payment_means_code23,23,Cheque bancario
+payment_means_code24,24,Nota cambiaria esperando aceptación
+payment_means_code25,25,Cheque certificado
+payment_means_code26,26,Cheque Local
+payment_means_code27,27,Débito Pago Neogcio Corporativo (CTP)
+payment_means_code28,28,Crédito Negocio Intercambio Corporativo (CTX)
+payment_means_code29,29,Débito Negocio Intercambio Corporativo (CTX)
+payment_means_code30,30,Transferecia Crédito
+payment_means_code31,31,Transferencia Débito
+payment_means_code32,32,Concentración Efectivo / Desembolso Crédito plus (CCD+)
+payment_means_code33,33,Concentración Efectivo / Desembolso Débito plus (CCD+)
+payment_means_code34,34,Pago y depósito pre acordado (PPD)
+payment_means_code35,35,Concentración efectivo ahorros / Desembolso Crédito (CCD)
+payment_means_code36,36,Concentración efectivo ahorros / Desembolso Drédito (CCD)
+payment_means_code37,37,Pago Negocio Corporativo Ahorros Crédito (CTP)
+payment_means_code38,38,Pago Neogcio Corporativo Ahorros Débito (CTP)
+payment_means_code39,39,Crédito Negocio Intercambio Corporativo (CTX)
+payment_means_code40,40,Débito Negocio Intercambio Corporativo (CTX)
+payment_means_code41,41,Concentración efectivo/Desembolso Crédito plus (CCD+)
+payment_means_code42,42,Consiganción bancaria
+payment_means_code43,43,Concentración efectivo / Desembolso Débito plus (CCD+)
+payment_means_code44,44,Nota cambiaria
+payment_means_code45,45,Transferencia Crédito Bancario
+payment_means_code46,46,Transferencia Débito Interbancario
+payment_means_code47,47,Transferencia Débito Bancaria
+payment_means_code48,48,Tarjeta Crédito
+payment_means_code49,49,Tarjeta Débito
+payment_means_code50,50,Postgiro
+payment_means_code51,51,Telex estándar bancario francés
+payment_means_code52,52,Pago comercial urgente
+payment_means_code53,53,Pago Tesorería Urgente
+payment_means_code60,60,Nota promisoria
+payment_means_code61,61,Nota promisoria firmada por el acreedor
+payment_means_code62,62,"Nota promisoria firmada por el acreedor, avalada por el banco"
+payment_means_code63,63,"Nota promisoria firmada por el acreedor, avalada por un tercero"
+payment_means_code64,64,Nota promisoria firmada pro el banco
+payment_means_code65,65,Nota promisoria firmada por un banco avalada por otro banco
+payment_means_code66,66,Nota promisoria firmada
+payment_means_code67,67,Nota promisoria firmada por un tercero avalada por un banco
+payment_means_code70,70,Retiro de nota por el por el acreedor
+payment_means_code71,71,Bonos
+payment_means_code72,72,Vales
+payment_means_code74,74,Retiro de nota por el por el acreedor sobre un banco
+payment_means_code75,75,"Retiro de nota por el acreedor, avalada por otro banco"
+payment_means_code76,76,"Retiro de nota por el acreedor, sobre un banco avalada por un tercero"
+payment_means_code77,77,Retiro de una nota por el acreedor sobre un tercero
+payment_means_code78,78,Retiro de una nota por el acreedor sobre un tercero avalada por un banco
+payment_means_code91,91,Nota bancaria tranferible
+payment_means_code92,92,Cheque local traferible
+payment_means_code93,93,Giro referenciado
+payment_means_code94,94,Giro urgente
+payment_means_code95,95,Giro formato abierto
+payment_means_code96,96,Método de pago solicitado no usuado
+payment_means_code97,97,Clearing entre partners
+payment_means_codeZZZ,ZZZ,Acuerdo mutuo
